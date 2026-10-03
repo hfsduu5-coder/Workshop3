@@ -1,6 +1,8 @@
-# CTF Workshop — Cyber Team
+<p align="center"><img src="assets/cyberiq-logo.svg" width="86" alt="CyberIQ logo">&nbsp;&nbsp;<strong>CyberIQ</strong></p>
 
-An interactive Arabic-first presentation for a **Capture The Flag (CTF)** workshop by Cyber Team.
+# CTF Workshop — CyberIQ
+
+An interactive Arabic-first presentation for a **Capture The Flag (CTF)** workshop by CyberIQ.
 
 ## Overview
 
