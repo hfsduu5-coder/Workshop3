@@ -38,3 +38,9 @@ Built for educational workshops and cybersecurity learning activities.
 ## Responsible Use
 
 Security concepts presented in this project are intended for education, authorized labs, CTF environments, and ethical security research only.
+## 👤 Developer
+
+**مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
+**الحنتوشي — Al-Hantooshi**  
+Developer • Team Leader & CEO of **CyberIQ**
+
