@@ -42,5 +42,5 @@ Security concepts presented in this project are intended for education, authoriz
 
 **مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
 **الحنتوشي — Al-Hantooshi**  
-Developer • Team Leader & CEO of **CyberIQ**
+Developer • Team Leader of **CyberIQ**
 
